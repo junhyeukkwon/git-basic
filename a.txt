@@ -1,1 +1,4 @@
 "This is a file" 
+Diff test
+insert i, a = insert text
+zbbsh
